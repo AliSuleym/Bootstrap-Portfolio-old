@@ -1,7 +1,6 @@
 .container{
 max-width: 1200;
 margin: auto;
-padding: 20px;
 }
 .footer{
     display: flex;
