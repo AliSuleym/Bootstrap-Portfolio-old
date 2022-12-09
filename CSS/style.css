@@ -1,0 +1,30 @@
+.container{
+max-width: 1200;
+margin: auto;
+padding: 20px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
+.footer-colum{
+    flex-basis: 200px;
+    flex-grow: 1;
+    text-align: center;
+    text-decoration: solid;
+}
+.footer-heading{
+margin: botton;
+font-size: larger;
+text-decoration: underline;
+}
+.footer-link{
+    display: block;
+    width: max-content;
+    padding: 5px 10px;
+    margin: auto;
+}
+.footer-bottom{
+    justify-content: flex-end;
+    margin-top: 10px;
+}
