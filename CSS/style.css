@@ -1,29 +1,20 @@
-.container{
-max-width: 1200;
-margin: auto;
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.5;
+    background-color:palegoldenrod;
+    color: white;
 }
-.footer{
-    display: flex;
-    justify-content: space-around;
+.jumbotroncopy{
+    display:flex;
+    background-image: url(../image/photo-modified.png);
+    background-size: cover;
+}   
+.nav{
+    position: relative;
+    bottom: 10px;
 }
-.footer-colum{
-    flex-basis: 200px;
-    flex-grow: 1;
-    text-align: center;
-    text-decoration: solid;
-}
-.footer-heading{
-margin: botton;
-font-size: larger;
-text-decoration: underline;
-}
-.footer-link{
-    display: block;
-    width: max-content;
-    padding: 5px 10px;
-    margin: auto;
-}
-.footer-bottom{
-    justify-content: flex-end;
-    margin-top: 10px;
+.navbarcopy{
+
 }
