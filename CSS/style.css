@@ -8,7 +8,7 @@ body{
 }
 .jumbotroncopy{
     display:flex;
-    background-image: url(../image/photo-modified.png);
+    background-image: url("../image/photo-modified.png  ");
     background-size: cover;
 }   
 .nav{
